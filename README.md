@@ -13,4 +13,5 @@ Kalle Michielsen
 ##Purpose
 This project is developed as a part of the RIT data track | Reproducible programming course day
 
+The rendered `Quarto` file can be found [here](/doc/reprodev-exercise_quarto.html)
 
